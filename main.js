@@ -5,5 +5,5 @@ function setup(){
 }
 function draw(){}
 function take_snapshot(){
-    save("Filtered Image")
+    save("Filtered Image");
 }
